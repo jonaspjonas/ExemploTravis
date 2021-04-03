@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TesteSimples" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-03T17:29:03" hostname="FAMILIAOLIVEIRA" time="0.172">
+  <properties/>
+  <testcase name="teste1()" classname="TesteSimples" time="0.172"/>
+  <system-out><![CDATA[teste 1 funcionando
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
