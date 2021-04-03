@@ -4,6 +4,6 @@ public class TesteSimples {
 
     @Test
     public void teste1(){
-        System.out.println("teste 1 funcionando");
+        System.out.println("teste 01 funcionando");
     }
 }
