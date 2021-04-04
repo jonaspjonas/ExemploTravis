@@ -3,7 +3,8 @@ language: java
 jdk:
   - openjdk8
 
-sudo: false
+script:
+  - TesteSimples.java
 
 before_install:
  - chmod +x gradlew
