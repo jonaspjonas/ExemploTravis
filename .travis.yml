@@ -1,7 +1,8 @@
 language: java
 
+notification:
+  - email: jonaspjonas@gmail.com
+
 before_install:
  - chmod +x gradlew
- 
-notification:
-   email: jonaspjonas@gmail.com
+
