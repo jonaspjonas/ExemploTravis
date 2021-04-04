@@ -7,5 +7,6 @@ before_install:
  - chmod +x gradlew
 
 notification:
-  email: ufrapl21@gmail.com
+  email: 
+  ufrapl21@gmail.com
   jonaspjonas@gmail.com
